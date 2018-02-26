@@ -1,0 +1,2 @@
+# subdivisiongorbe
+komputergrafika
